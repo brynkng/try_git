@@ -1,6 +1,6 @@
 class TestClass
 
-	def foo
-	puts 'bar'
-	end
+def foo
+puts 'bar'
+end
 end
